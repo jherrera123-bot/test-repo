@@ -24,4 +24,7 @@ it so it's very basic anyway...
 `git checkout`  
 
 etc
-etc
+etcNEW LINE
+etca
+b
+c
